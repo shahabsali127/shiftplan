@@ -1,0 +1,7 @@
+{
+  "name": "ShiftPlan Pro 2026-2030",
+  "description": "A professional employee shift planning application with automatic German holiday detection, vacation management, and AI-powered workload analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
